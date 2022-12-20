@@ -4,3 +4,7 @@ Original for Angular by Nathan Walker: https://twitter.com/wwwalkerrun/status/16
 
 https://user-images.githubusercontent.com/879060/208712216-60f2fa66-d5aa-4ff1-b18c-a1be4eab91f8.mov
 
+
+## Learn more
+
+[NativeScript SwiftUI plugin](https://github.com/NativeScript/plugins/blob/main/packages/swift-ui/README.md)
